@@ -27,9 +27,9 @@
        index_2 = array[1]
        index_3 = array[2]
      
-     position_1 = array[0]
-     position_2 = array[1]
-     position_3 = array[2]
+     position_1 = board[index_1]
+     position_2 = board[index_2]
+     position_3 = board[index_3]
      
         
       if position_1 == position_2 && position_2 == position_3 && (position_1 == "X" || position_1 == "O")
