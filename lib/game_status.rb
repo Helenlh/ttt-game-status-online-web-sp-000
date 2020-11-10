@@ -62,8 +62,8 @@
     def winner(board)
          winning_value = won?(board)
          if winning_value 
-           boardwinning_value]]
-           
+           board[winning_value[0]]
+         end 
     end 
     
      
