@@ -60,7 +60,10 @@
     
     
     def winner(board)
-         if won?(board)
+         winning_value = won?(board)
+         if winning_value 
+           boardwinning_value]]
+           
     end 
     
      
