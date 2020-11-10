@@ -33,9 +33,10 @@
      
         
       if position_1 == position_2 && position_2 == position_3 && (position_1 == "X" || position_1 == "O")
-      end 
       return array
       end 
+     end 
+     return false 
   end  
 
      
