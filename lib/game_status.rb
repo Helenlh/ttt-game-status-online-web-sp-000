@@ -60,7 +60,7 @@
     
     
     def winner(board)
-        array  
+         
     end 
     
      
